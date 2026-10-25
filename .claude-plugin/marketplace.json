@@ -1,0 +1,16 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "Insu Kang"
+  },
+  "metadata": {
+    "description": "Personal engineering skills for planning, implementation, and review."
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "Personal engineering skills for planning, implementation, and review."
+    }
+  ]
+}
